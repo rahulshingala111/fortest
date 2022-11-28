@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Change 1 : abcd
+          Change 2 : efgh
         </p>
         
       </header>
